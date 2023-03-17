@@ -32,4 +32,4 @@ if (findNamber - blizkoMenshe) <= (blizkoBolshe - findNamber):
 else:
     print(f"близкое к числу {findNamber} это {blizkoBolshe}")
 
-print(blizkoMenshe, blizkoBolshe)
+#print(blizkoMenshe, blizkoBolshe)
